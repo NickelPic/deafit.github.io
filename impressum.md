@@ -6,7 +6,7 @@ title: Impressum
 Die Deaf IT Homepage wird vom Gehörlosenverband München und Umland e.V. betrieben.
 
 **Kontakt:**  
-info@deaf-it.org
+[info@deaf-it.org](mailto:info@deaf-it.org)
  
 **Anschrift:**
 
