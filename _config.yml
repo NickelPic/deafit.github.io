@@ -1,0 +1,29 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            DeafIT
+tagline:          Focus on Excellent Network
+url:              http://www.deaf-it.org
+
+paginate:         10
+paginate_path: "blog/page:num/"
+
+baseurl:          /
+author:
+  name:           DeafIT Team
+  url:            https://twitter.com/deafit
+  email:          info@deaf-it.org
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/deafit
+
+# Navigation
+pages_list:       
+  Konferenz: '/conference'
+  Team: '/team'
+  Blog: '/blog'
+  Feed: '/atom.xml'
