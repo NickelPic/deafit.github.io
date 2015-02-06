@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Team´ß
+parallax: public/images/nebular.jpg
 ---
-
-![DeafIT Teaser](http://placehold.it/800x200)
 
 ## Team
 

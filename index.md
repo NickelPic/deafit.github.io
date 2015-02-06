@@ -1,9 +1,8 @@
 ---
 layout: homepage
 title: Home
+parallax: public/images/nebular.jpg
 ---
-
-![DeafIT Teaser](http://placehold.it/800x400)
 
 ## <a id="willkommen"></a>Herzlich willkommen ...
 
