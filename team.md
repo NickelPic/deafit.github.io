@@ -10,7 +10,7 @@ Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Ber
 
 <table>
 	<tr>
-		<td>Tobias Burz</td>
+		<td><a href="/team/tobias-burz">Tobias Burz</a></td>
 		<td>Manuel Gnerlich</td>
 		<td>Kilian Knörzer</td>
 	</tr>
