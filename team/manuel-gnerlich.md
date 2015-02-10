@@ -11,7 +11,7 @@ Bereits in meiner Jugendzeit habe ich mich für Computer interessiert und oft zu
 Nach dem erfolgreichen Abschluss des Studiums habe ich viele praktische Erfahrungen als Java-Entwickler in unterschiedlichen kleinen Firmen gesammelt. Heutzutage arbeite ich als freiberuflicher Java EE Consultant bei diversen renommierten Firmen wie zum Beispiel Telekom, VW, Unic, Starfinanz u.a..
 
 ## Was ist deine Aufgabe?
-Derzeit arbeite ich in einer Startup-Firma namens Clubers.net (website:http://clubers.net/). Dort unterstütze und berate ich ein Entwickler-Team beim Aufbau einer Plattform für Vereine und Events.  
+Ich berate die Kunden und entwickele die Webapplikation mit Schwerpunkt JavaEE für die diversen Kunden.
 
 ## Warum bist du im Team?
 Der Wunsch mich aus der Abhängigkeit zu einer dritten Person (hier: Dolmetscher) beim fachlichen Austausch mit IT-Experten, zum Beispiel auf Konferenzen, zu lösen, gab mir den Anstoß mich beruflich umzustrukturieren – insbesondere in Hinblick auf den direkten Austausch mir „KollegInnen“. Für mich ist der barrierefreie Ansatz dabei entscheidend. Des Weiteren ist es meine Motivation, anderen gehörlosen Menschen berufliche Perspektiven im IT-Bereich zu geben. Deswegen bin ich hier im Team!
