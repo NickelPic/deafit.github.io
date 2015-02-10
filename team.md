@@ -11,13 +11,13 @@ Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Ber
 <table>
 	<tr>
 		<td><a href="/team/tobias-burz">Tobias Burz</a></td>
-		<td>Manuel Gnerlich</td>
-		<td>Kilian Knörzer</td>
+		<td><a href="/team/manuel-gnerlich">Manuel Gnerlich</a></td>
+		<td><a href="/team/kilian-knoerzer">Kilian Knörzer</a></td>
 	</tr>
 	<tr>
-		<td>Vincent Rothländer</td>
+		<td><a href="/team/vincent-rothlaender">Vincent Rothländer</a></td>
 		<td><a href="/team/fabian-spillner">Fabian Spillner</a></td>
-		<td>Nicole Weißkopf</td>
+		<td><a href="/team/nicole-weisskopf">Nicole Weißkopf</a></td>
 	</tr>
 	<tr>
 		<td>Christian Beilborn</td>
