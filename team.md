@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Team´ß
+title: Team
 parallax: public/images/nebular.jpg
 ---
 
