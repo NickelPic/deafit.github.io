@@ -2,6 +2,7 @@
 layout: page
 title: Nicole Weißkopf
 ---
+![Nicole Weißkopf](/public/images/niwe_small.jpg "Nicole Weißkopf")
 
 Wohnort: München  
 Beruf & Arbeitsgeber: Community Managerin bei [CHIP Digital GmbH](http://www.chip.de/ "CHIP Digital GmbH")<br>

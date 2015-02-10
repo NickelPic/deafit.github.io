@@ -2,6 +2,7 @@
 layout: page
 title: Fabian Spillner
 ---
+![Fabian Spillner](/public/images/fasp_small.jpg "Fabian Spillner")
 
 Wohnort: München  
 Beruf & Arbeitsgeber: Senior Software Engineer bei [gutefrage.net](http://www.gutefrage.net "gutefrage.net")<br>

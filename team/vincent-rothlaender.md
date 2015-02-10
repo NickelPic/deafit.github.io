@@ -2,6 +2,7 @@
 layout: page
 title: Vincent Rothländer
 ---
+![Vincent Rothländer](/public/images/viro_small.jpg "Vincent Rothländer")
 
 Wohnort: Frankfurt am Main  
 Beruf & Arbeitsgeber: Solutions Architect bei [CGI](http://www.de.cgi.com "de.cgi.com")<br>
