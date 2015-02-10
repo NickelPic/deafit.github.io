@@ -45,3 +45,12 @@ The first four lines you can setup the layout and the title of the page. Then yo
 ## Deployment of changes
 
 So, we host our website on github. It's using git as version control system. As team member, you can use github directly to modify or add the pages without having to take care of repository management. For larger changes you can fork the project and send pull request so the team member can review your changes and accept the pull request in order to merge your changes into master branch. Every change on the master branch is deployed automatically to production. 
+
+## Team
+
+ - Fabian Spillner
+ - Kilian Knörzer
+ - Nicole Weißkopf
+ - Tobias Burz
+ - Vincent Rothländer
+ - Christian Beilborn
