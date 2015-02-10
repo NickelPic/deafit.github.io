@@ -2,6 +2,7 @@
 layout: page
 title: Manuel Gnerlich
 ---
+<img src="{{ site.baseurl }}public/images/magn_small.jpg" height="50">
 Wohnort: Hamburg 
 Beruf & Arbeitsgeber: freiberuflich Software-Berater
 
