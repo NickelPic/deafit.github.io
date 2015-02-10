@@ -2,7 +2,8 @@
 layout: page
 title: Kilian Knörzer
 ---
-<img src="../public/images/kikn_small.jpg">
+
+![Kilian Knörzer](../public/images/kikn_small.jpg "Kilian Knörzer")
 
 Wohnort: München  
 Beruf & Arbeitsgeber: Teamleiter und staatlich geprüfter tauber Gebärdensprachdolmetscher, [Gehörlosenverband München und Umland e.V. ](http://www.gmu.de "gmu.de") / [spectrum11](http://www.spectrum11.de "spectrum11.de") in der [GL-S GmbH](http://www.gl-s.de "gl-s.de")<br>
