@@ -5,7 +5,6 @@ title: Tobias Burz
 
 Wohnort: München  
 Beruf & Arbeitsgeber: Senior IT Consultant bei [Atos IT Solutions & Services](http://atos.net "Atos IT Solutions & Services")<br>
-Follow me <i class="fa fa-twitter"></i> <a href="http://twitter.com/dreamcocoa">@dreamcocoa</a>
 
 ## Wie bist du zu deinem jetzigen Beruf gekommen?
 
