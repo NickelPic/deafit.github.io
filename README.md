@@ -24,7 +24,7 @@ Let's talk about the directory structure and files, first.
 ## How the page is built
 
 The primary file format is choosen as Markdown. It's templating language for writing content. 
-It's quite readable. The documentation you can find about Markdown, just go to http://xxxx. 
+It's quite readable. The documentation you can find about Markdown, just go to http://daringfireball.net/projects/markdown/syntax. 
 
 Let's talk about an example:
 
