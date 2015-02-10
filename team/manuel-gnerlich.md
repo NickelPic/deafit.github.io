@@ -1,3 +1,7 @@
+---
+layout: page
+title: Manuel Gnerlich
+---
 Wohnort: Hamburg 
 Beruf & Arbeitsgeber: freiberuflich Software-Berater
 
