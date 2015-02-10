@@ -4,7 +4,8 @@ title: Manuel Gnerlich
 ---
 <img src="{{ site.baseurl }}public/images/magn_small.jpg" height="150" width="113">
 
-**Wohnort**: Hamburg 
+**Wohnort**: Hamburg
+
 **Beruf & Arbeitsgeber**: freiberuflich Software-Berater
 
 ### Wie bist du zu deinem jetzigen Beruf gekommen?
