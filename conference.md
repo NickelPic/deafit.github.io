@@ -6,8 +6,8 @@ parallax: public/images/nebular.jpg
 
 #Konferenz 2014
 
-Standort: [Gehörlosenzentrum München][1]
-
+Standort: 
+[Gehörlosenzentrum München][1]
 Lohengrinstraße 11  
 81925 München
 
