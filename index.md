@@ -4,6 +4,13 @@ title: Home
 parallax: public/images/nebular.jpg
 ---
 
+## <a id="video"></a>DeafIT 2015 - Ankündigung
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IgYucwI3lWE" frameborder="0" allowfullscreen &cc_load_policy=1></iframe>
+
+
+-------------
+
 ## <a id="willkommen"></a>Herzlich willkommen ...
 
 ... auf unserer Webseite der Deaf IT Conference! Deaf IT Conference richtet sich an alle deutschsprachigen Gehörlosen, Schwerhörigen und CI-Träger, aber auch Hörende, die in der Informations- & Technologie Branche arbeiten und arbeiten möchten. Es soll eine Plattform & Konferenz entstehen, wo sich alle Hörgeschädigten aus ganz Deutschland mit ihrem IT-Fachwissen austauschen können.
