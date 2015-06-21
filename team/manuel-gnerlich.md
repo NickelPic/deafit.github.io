@@ -2,11 +2,10 @@
 layout: page
 title: Manuel Gnerlich
 ---
-<img src="{{ site.baseurl }}public/images/magn_small.jpg" height="150" width="113">
+![Manuel Gnerlich](/public/images/magn_small.jpg "Manuel Gnerlich")
 
-**Wohnort**: Hamburg
-
-**Beruf & Arbeitsgeber**: freiberuflich Software-Berater
+Wohnort: Hamburg
+Beruf & Arbeitsgeber: freiberuflich Software-Berater
 
 ### Wie bist du zu deinem jetzigen Beruf gekommen?
 Bereits in meiner Jugendzeit habe ich mich für Computer interessiert und oft zusammen mit Freunden am Computer gespielt. Während meiner Ausbildung zum Industrieelektroniker kam ich das erste Mal in Kontakt mit der Programmierung (Assembler) und war sofort fasziniert. Folglich habe ich mich entschlossen nach meiner Ausbildung ein Informatik-Studium mit Schwerpunkt Elektrotechnik an der Hochschule für Angewandte Wissenschaften in Hamburg aufzunehmen, um mein Interesse in eben diesem Bereich zu intensivieren.
