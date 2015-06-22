@@ -26,6 +26,6 @@ Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Ber
 	</tr>
 </table>
 
-#Ehemalige Mitarbeiter
+##Ehemalige Mitarbeiter
 
 <a href="/team/vincent-rothlaender"><img src="/public/images/viro_small.jpg"><br>Vincent Rothländer</a>
