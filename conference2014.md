@@ -1,4 +1,3 @@
-
 #Konferenz 2014
 
 Standort: 
