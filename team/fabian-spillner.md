@@ -1,7 +1,9 @@
-﻿---
+---
 layout: page
 title: Fabian Spillner
+published: true
 ---
+
 ![Fabian Spillner](/public/images/fabian_200px.jpg "Fabian Spillner")
 
 Wohnort: München  
