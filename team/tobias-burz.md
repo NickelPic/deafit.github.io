@@ -1,7 +1,9 @@
-﻿---
+---
 layout: page
 title: Tobias Burz
+published: true
 ---
+
 ![Tobias Burz](/public/images/tobias_200px.jpg "Tobias Burz")
 
 Wohnort: München  
