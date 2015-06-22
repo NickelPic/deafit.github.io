@@ -1,8 +1,10 @@
-﻿---
+---
 layout: default
 title: Team
-parallax: public/images/2014-10-25_DeafIT2014_Gruppe.jpg
+parallax: "public/images/2014-10-25_DeafIT2014_Gruppe.jpg"
+published: true
 ---
+
 
 ## Team
 
@@ -10,7 +12,7 @@ Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Ber
 
 <table>
 	<tr>
-		<td>Christian Beilborn</td>
+		<td><a href="/team/christian-beilborn">Christian Beilborn</a></td>
 		<td><a href="/team/tobias-burz"><img src="/public/images/tobias_200px.jpg"><br>Tobias Burz</a></td>
 		<td><a href="/team/manuel-gnerlich"><img src="/public/images/magn_small.jpg"><br>Manuel Gnerlich</a></td>
 		<td><a href="/team/kilian-knoerzer"><img src="/public/images/kilian_200px.jpg"><br>Kilian Knörzer</a></td>
