@@ -2,7 +2,9 @@
 layout: homepage
 title: Home
 parallax: public/images/nebular.jpg
+published: true
 ---
+
 
 ## <a id="video"></a>DeafIT 2015 - Ankündigung
 
