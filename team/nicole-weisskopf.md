@@ -1,7 +1,9 @@
-﻿---
+---
 layout: page
 title: Nicole Weißkopf
+published: true
 ---
+
 ![Nicole Weißkopf](/public/images/nicole_200px.jpg "Nicole Weißkopf")
 
 Wohnort: München  
