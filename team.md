@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 ## Team
 
 Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Bereichen der IT-Branche arbeiten und jahrelange Berufserfahrung aufweisen können. Das Team hat sich mit der Vision und dem Ziel zusammengeschlossen, eine Deaf IT Conference auf die Beine zu stellen, um ihr Fachwissen mit noch mehr Menschen auszutauschen.
@@ -18,10 +19,14 @@ Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Ber
 		<td><a href="/team/kilian-knoerzer"><img src="/public/images/kilian_200px.jpg"><br>Kilian Knörzer</a></td>
 	</tr>
 	<tr>
-		<td><a href="/team/vincent-rothlaender"><img src="/public/images/viro_small.jpg"><br>Vincent Rothländer</a></td>
+		
 		<td><a href="/team/fabian-spillner"><img src="/public/images/fabian_200px.jpg"><br>Fabian Spillner</a></td>
 		<td><a href="/team/nicole-weisskopf"><img src="/public/images/nicole_200px.jpg"><br>Nicole Weißkopf</a></td>
 	</tr>
 	<tr>
 	</tr>
 </table>
+
+#Ehemalige Mitarbeiter
+
+<a href="/team/vincent-rothlaender"><img src="/public/images/viro_small.jpg"><br>Vincent Rothländer</a>
