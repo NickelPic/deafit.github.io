@@ -4,6 +4,7 @@ title: Kilian Knörzer
 published: true
 ---
 
+
 ![Kilian Knörzer](/public/images/kilian_200px.jpg "Kilian Knörzer")
 
 Wohnort: München  
