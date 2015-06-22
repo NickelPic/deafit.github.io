@@ -8,7 +8,7 @@ published: true
 
 ## <a id="video"></a>DeafIT 2015 - Ankündigung
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IgYucwI3lWE" frameborder="0" allowfullscreen &cc_load_policy=1></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IgYucwI3lWE" frameborder="0" cc_load_policy="1"></iframe>
 
 
 -------------
