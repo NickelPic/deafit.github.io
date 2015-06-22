@@ -1,7 +1,9 @@
-﻿---
+---
 layout: page
 title: Kilian Knörzer
+published: true
 ---
+
 ![Kilian Knörzer](/public/images/kilian_200px.jpg "Kilian Knörzer")
 
 Wohnort: München  
@@ -18,4 +20,4 @@ Als tauber Gebärdensprachdolmetscher bin ich derzeit für die Umsetzung der bar
 
 ## Warum bist du im Team?
 
-Weil wir in unserer IT-Berufsgruppe nun endlich eine eigene Veranstaltung durchführen können. Die Idee habe ich schon im Jahr 2010 mit Manuel Gnerlich gemeinsam entwickelt. Durch meine zahlreichen IT-Veranstaltungsbesuche wie Cebit, CCC, ATAG, Drupalcamp, JoomlaDay usw. habe ich festgestellt, dass es in unserem Hörbehindertenbereich bislang noch keinen nennenswerten Netzwerkaustausch mit gleichgesinnten Berufsgruppen gibt. In meiner langjährigen ehrenamtlichen Tätigkeit für www.Sign-Dialog.de, eine Arbeitsgruppe im Deutschen Gehörlosen-Bund e.V., kämpfen wir gemeinsam für verbesserte Untertitelquoten und -qualitäten. Nun möchte ich während der Deaf IT Erfahrungen im technischen Medienbereich mit anderen gleichgesinnten Networkern austauschen. 
+Weil wir in unserer IT-Berufsgruppe nun endlich eine eigene Veranstaltung durchführen können. Die Idee habe ich schon im Jahr 2010 mit Manuel Gnerlich gemeinsam entwickelt. Durch meine zahlreichen IT-Veranstaltungsbesuche wie Cebit, CCC, ATAG, Drupalcamp, JoomlaDay usw. habe ich festgestellt, dass es in unserem Hörbehindertenbereich bislang noch keinen nennenswerten Netzwerkaustausch mit gleichgesinnten Berufsgruppen gibt. In meiner langjährigen ehrenamtlichen Tätigkeit für www.Sign-Dialog.de, eine Arbeitsgruppe im Deutschen Gehörlosen-Bund e.V., kämpfen wir gemeinsam für verbesserte Untertitelquoten und -qualitäten. Nun möchte ich während der Deaf IT Erfahrungen im technischen Medienbereich mit anderen gleichgesinnten Networkern austauschen.
