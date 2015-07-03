@@ -23,7 +23,7 @@ Die Deaf IT Homepage wird vom Gehörlosenverband München und Umland e.V. betrie
 > Registernummer: VR 9900
  
 Vertretungsberechtigte: Vorsitzende Elisabeth Kaufmann
-Bevollmächtigte Person: Rudi Sailer - Geschäftsführer
+Bevollmächtigte Person: Cornelia von Pappenheim - Geschäftsführerin
  
 <small>
 Haftungsausschluss für externe Links
