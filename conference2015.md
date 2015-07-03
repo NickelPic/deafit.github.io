@@ -9,13 +9,13 @@ published: true
 
 Vom 13. bis 15. November 2015 findet in Nürnberg die "DeafIT Conference 2015" statt.
 
-### Ankündigungsvideo:
+## Ankündigungsvideo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IgYucwI3lWE" frameborder="0" cc_load_policy="1"></iframe>
 
-### Call for Paper:
+## Call for Paper:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNDi-0RWkl4" frameborder="0" cc_load_policy="1"></iframe>
 
-## Wo?
+### Wo?
 
 Gehörlosenkulturzentrum Nürnberg
 
@@ -24,10 +24,10 @@ Pommernstraße 1
 
 Anfahrt: [Google Maps](https://goo.gl/maps/jhK1N)
 
-## Übernachtung
+### Übernachtung
 Noch offen. Es hängt von Anmeldung ab.
 
-## Anmeldung
+### Anmeldung
 
 **Bei der Anmeldung bis 31.8.2015** beträgt die Teilnahmegebühr für Workshop von Freitag bis Sonntag **30,- €**, danach bis 11.10.2015 35,- €.
 
@@ -44,14 +44,14 @@ Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
 
 Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewerben. Hier kannst du bewerben. Wenn dein Thema in das Programm aufgenommen wird, dann bist du teilnahmegebührbefreit.
 
-## Vorläufiges Programm:
+### Vorläufiges Programm:
 
-### Freitag
+## Freitag
 
 18.00-19.00 Einlaß und Abholung des Teilnehmerpaket
 19.00-21.00 Kofo oder Implusvortrag
 
-### Samstag
+## Samstag
 
 09.00-09.45 Einlaß und Abholung des Teilnehmerpaket
 09.45-10.30 Vortrag
@@ -66,7 +66,7 @@ Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewer
 17.15-18.00 Vortrag 
 19.00-02.00 Restaurant in der Stadt und Ausklang im Pub
 
-### Sonntag
+## Sonntag
 
 10:00-11:00	Frühstück-Brunch
 11:00-11:45	Impulsvortrag
