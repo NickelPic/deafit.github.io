@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Home
-parallax: public/images/2014-10-25_DeafIT2014_Gruppe.jpg
+<!--parallax: public/images/2014-10-25_DeafIT2014_Gruppe.jpg -->
 published: true
 ---
 
