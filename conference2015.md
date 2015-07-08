@@ -47,6 +47,7 @@ Noch offen. Es hängt von Anmeldung ab.
   </div>
 </div> 	
 <BR/>
+
 ## Samstag
 <div>
   <div class="row">
