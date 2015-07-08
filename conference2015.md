@@ -78,6 +78,7 @@ Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewer
 
 
 Hier kannst du als Teilnehmer anmelden:
-<iframe src="https://docs.google.com/forms/d/1rxgoNDV2voOZ6KK5ZJg_vE5tbF1CtOh95RFRYANarYY/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
+
+<iframe src="https://docs.google.com/forms/d/1rxgoNDV2voOZ6KK5ZJg_vE5tbF1CtOh95RFRYANarYY/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
 
