@@ -30,10 +30,11 @@ Noch offen. Es hängt von Anmeldung ab.
 ### Vorläufiges Programm:
 
 ## Freitag
-|  Wann   |  Was   |
-|---	|---	|
-| 18.00-19.00  	|  Einlaß und Abholung des Teilnehmerpaket 	|
-| 19.00-21.00  	|  Kofo oder Implusvortrag 	|
+| Wann        	| Wann                                    	|
+|-------------	|-----------------------------------------	|
+| 18.00-19.00 	| Einlaß und Abholung des Teilnehmerpaket 	|   	
+| 19.00-21.00 	| Kofo oder Implusvortrag                 	|   	
+|             	|                                         	|   	
 
 ## Samstag
 |  Wann   |  Was   |
