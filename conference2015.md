@@ -27,23 +27,6 @@ Anfahrt: [Google Maps](https://goo.gl/maps/jhK1N)
 ### Übernachtung
 Noch offen. Es hängt von Anmeldung ab.
 
-### Anmeldung
-
-**Bei der Anmeldung bis 31.8.2015** beträgt die Teilnahmegebühr für Workshop von Freitag bis Sonntag **30,- €**, danach bis 11.10.2015 35,- €.
-
-Die Teilnahmegebühr beinhaltet das Trinken von Freitag bis Sonntag und das Mittagsessen und die Kuchen am Sonnabend.
-
-[Hier](https://docs.google.com/forms/d/1rxgoNDV2voOZ6KK5ZJg_vE5tbF1CtOh95RFRYANarYY/viewform) kannst du als Teilnehmer anmelden. 
-
-Bitte überweist du das Teilnahmegebühr gleich auf folgendes Konto von GMU e.V.:
-Name: GMU e.v.
-IBAN: DE000XXXX
-BIC: XXXXXX
-
-Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
-
-Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewerben. Hier kannst du bewerben. Wenn dein Thema in das Programm aufgenommen wird, dann bist du teilnahmegebührbefreit.
-
 ### Vorläufiges Programm:
 
 ## Freitag
@@ -76,5 +59,25 @@ Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewer
 |11:45-12:30 |	Impulsvortrag |
 |Ab 12.30 |    Heimreise |
 
-
 Änderungen vorbehalten! 
+
+### Anmeldung
+
+**Bei der Anmeldung bis 31.8.2015** beträgt die Teilnahmegebühr für Workshop von Freitag bis Sonntag **30,- €**, danach bis 11.10.2015 35,- €.
+
+Die Teilnahmegebühr beinhaltet das Trinken von Freitag bis Sonntag und das Mittagsessen und die Kuchen am Sonnabend.
+
+Bitte überweist du das Teilnahmegebühr gleich auf folgendes Konto von GMU e.V.:
+Name: GMU e.v.
+IBAN: DE000XXXX
+BIC: XXXXXX
+
+Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
+
+Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewerben. Hier kannst du bewerben. Wenn dein Thema in das Programm aufgenommen wird, dann bist du teilnahmegebührbefreit.
+
+
+Hier kannst du als Teilnehmer anmelden:
+<iframe src="https://docs.google.com/forms/d/1rxgoNDV2voOZ6KK5ZJg_vE5tbF1CtOh95RFRYANarYY/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
+
+
