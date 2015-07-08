@@ -47,13 +47,13 @@ Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewer
 ### Vorläufiges Programm:
 
 ## Freitag
-|  Uhrzeit   |  Themen   |
+|  Wann?   |  Was?   |
 |---	|---	|
 | 18.00-19.00  	|  Einlaß und Abholung des Teilnehmerpaket 	|
 | 19.00-21.00  	|  Kofo oder Implusvortrag 	|
 
 ## Samstag
-|  Uhrzeit   |  Themen   |
+|  Wann?   |  Was?   |
 |---	|---	|
 |09.00-09.45 | Einlaß und Abholung des Teilnehmerpaket|
 |09.45-10.30 | Vortrag|
@@ -69,7 +69,7 @@ Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewer
 |19.00-02.00 | Restaurant in der Stadt und Ausklang im Pub|
 
 ## Sonntag
-|  Uhrzeit   |  Themen   |
+|  Wann?   |  Was?   |
 |---	|---	|
 |10:00-11:00 |	Frühstück-Brunch |
 |11:00-11:45 |	Impulsvortrag |
