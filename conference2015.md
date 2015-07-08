@@ -31,48 +31,106 @@ Noch offen. Es hängt von Anmeldung ab.
 
 ## Freitag
 <!-- .container is main centered wrapper -->
-<div class="container">
-<!-- there are a few shorthand columns widths as well -->
+<div>
   <div class="row">
     <div class="one-third column">Uhrzeit</div>
     <div class="two-thirds column">Was</div>
   </div>
-  <!-- there are a few shorthand columns widths as well -->
+
   <div class="row">
     <div class="one-third column">18.00-19.00</div>
     <div class="two-thirds column">Einlaß und Abholung des Teilnehmerpaket</div>
   </div>
-  <!-- there are a few shorthand columns widths as well -->
   <div class="row">
     <div class="one-third column">19.00-21.00</div>
     <div class="two-thirds column">Kofo oder Implusvortrag</div>
   </div>
 </div> 	
-
+<BR/>
 ## Samstag
-|  Wann   |  Was   |
-|---	|---	|
-|09.00-09.45 | Einlaß und Abholung des Teilnehmerpaket|
-|09.45-10.30 | Vortrag|
-|10.30-11.00 | Pause|
-|11.00-11.45 | Vortrag|
-|11.45-12.30 | Vortrag|
-|12.30-14.00 | Mittagspause|
-|14.00-15:30 | Workshop I und II|
-|15.30-16.00 | Kurzpräsentation vom Workshop|
-|16.00-16.30 | Kaffeepause|
-|16.30-17.15 | Vortrag|
-|17.15-18.00 | Vortrag |
-|19.00-02.00 | Restaurant in der Stadt und Ausklang im Pub|
+<div>
+  <div class="row">
+    <div class="one-third column">Uhrzeit</div>
+    <div class="two-thirds column">Was</div>
+  </div>
+
+  <div class="row">
+    <div class="one-third column">09.00-09.45</div>
+    <div class="two-thirds column">Einlaß und Abholung des Teilnehmerpaket</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">09.45-10.30</div>
+    <div class="two-thirds column">Vortrag</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">10.30-11.00</div>
+    <div class="two-thirds column">Pause</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">11.00-11.45</div>
+    <div class="two-thirds column">Vortrag</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">11.45-12.30</div>
+    <div class="two-thirds column">Vortrag</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">12.30-14.00</div>
+    <div class="two-thirds column">Mittagspause</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">14.00-15:30</div>
+    <div class="two-thirds column">Workshop I und II</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">15.30-16.00</div>
+    <div class="two-thirds column">Kurzpräsentation vom Workshop</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">16.00-16.30</div>
+    <div class="two-thirds column">Kaffeepause</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">16.30-17.15</div>
+    <div class="two-thirds column">Vortrag</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">17.15-18.00</div>
+    <div class="two-thirds column">Vortrag</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">19.00-02.00</div>
+    <div class="two-thirds column">Restaurant in der Stadt und Ausklang im Pub</div>
+  </div>
+  </div>
+<BR/>
 
 ## Sonntag
-|  Wann   |  Was   |
-|---	|---	|
-|10:00-11:00 |	Frühstück-Brunch |
-|11:00-11:45 |	Impulsvortrag |
-|11:45-12:30 |	Impulsvortrag |
-|Ab 12.30 |    Heimreise |
+<!-- .container is main centered wrapper -->
+<div>
+  <div class="row">
+    <div class="one-third column">Uhrzeit</div>
+    <div class="two-thirds column">Was</div>
+  </div>
 
+  <div class="row">
+    <div class="one-third column">10:00-11:00</div>
+    <div class="two-thirds column">Frühstück-Brunch</div>
+  </div>
+  <div class="row">
+    <div class="one-third column">11:00-11:45</div>
+    <div class="two-thirds column">Impulsvortrag</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">11:45-12:30</div>
+    <div class="two-thirds column">Impulsvortrag</div>
+  </div>
+   <div class="row">
+    <div class="one-third column">Ab 12.30</div>
+    <div class="two-thirds column">Heimreise</div>
+  </div>
+</div> 	
+<BR/>
 Änderungen vorbehalten! 
 
 ### Anmeldung
