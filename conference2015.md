@@ -30,11 +30,24 @@ Noch offen. Es hängt von Anmeldung ab.
 ### Vorläufiges Programm:
 
 ## Freitag
-| Wann        	| Wann                                    	|
-|-------------	|-----------------------------------------	|
-| 18.00-19.00 	| Einlaß und Abholung des Teilnehmerpaket 	|   	
-| 19.00-21.00 	| Kofo oder Implusvortrag                 	|   	
-|             	|                                         	|   	
+<!-- .container is main centered wrapper -->
+<div class="container">
+<!-- there are a few shorthand columns widths as well -->
+  <div class="row">
+    <div class="one-third column">Uhrzeit</div>
+    <div class="two-thirds column">Was</div>
+  </div>
+  <!-- there are a few shorthand columns widths as well -->
+  <div class="row">
+    <div class="one-third column">18.00-19.00</div>
+    <div class="two-thirds column">Einlaß und Abholung des Teilnehmerpaket</div>
+  </div>
+  <!-- there are a few shorthand columns widths as well -->
+  <div class="row">
+    <div class="one-third column">19.00-21.00</div>
+    <div class="two-thirds column">Kofo oder Implusvortrag</div>
+  </div>
+</div> 	
 
 ## Samstag
 |  Wann   |  Was   |
