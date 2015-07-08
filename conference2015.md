@@ -49,6 +49,7 @@ Noch offen. Es hängt von Anmeldung ab.
 <BR/>
 
 ## Samstag
+
 <div>
   <div class="row">
     <div class="one-third column">Uhrzeit</div>
@@ -132,6 +133,7 @@ Noch offen. Es hängt von Anmeldung ab.
   </div>
 </div> 	
 <BR/>
+
 Änderungen vorbehalten! 
 
 ### Anmeldung
