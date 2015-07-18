@@ -39,11 +39,11 @@ Noch offen. Es hängt von Anmeldung ab.
 
   <div class="row">
     <div class="one-third column">18.00-19.00</div>
-    <div class="two-thirds column">Einlaß und Abholung des Teilnehmerpaket</div>
+    <div class="two-thirds column">Einlass und Abholung des Teilnehmerpakets</div>
   </div>
   <div class="row">
     <div class="one-third column">19.00-21.00</div>
-    <div class="two-thirds column">Kofo oder Implusvortrag</div>
+    <div class="two-thirds column">Kofo oder Impulsvortrag</div>
   </div>
 </div> 	
 <BR/>
@@ -58,7 +58,7 @@ Noch offen. Es hängt von Anmeldung ab.
 
   <div class="row">
     <div class="one-third column">09.00-09.45</div>
-    <div class="two-thirds column">Einlaß und Abholung des Teilnehmerpaket</div>
+    <div class="two-thirds column">Einlass und Abholung des Teilnehmerpakets</div>
   </div>
    <div class="row">
     <div class="one-third column">09.45-10.30</div>
@@ -143,9 +143,11 @@ Noch offen. Es hängt von Anmeldung ab.
 Die Teilnahmegebühr beinhaltet das Trinken von Freitag bis Sonntag und das Mittagsessen und die Kuchen am Sonnabend.
 
 Bitte überweist du das Teilnahmegebühr gleich auf folgendes Konto von GMU e.V.:
-Name: GMU e.v.
-IBAN: DE000XXXX
-BIC: XXXXXX
+Name: Gehörlosenverband München und Umland
+IBAN: DE73701900000300138371
+BIC: GENODEF1M01
+Name der Bank: Münchner Bank eG
+Verwendungszweck: Deaf-IT-Konferenz 2015
 
 Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
 
