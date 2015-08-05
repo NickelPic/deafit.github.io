@@ -153,7 +153,7 @@ Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
 
 Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewerben. Hier kannst du bewerben. Wenn dein Thema in das Programm aufgenommen wird, dann bist du teilnahmegebührbefreit.
 
-Für Fragen kannst du an mich, Manuel, unter die Email-Adresse (argonist@gmail.com) wenden.
+Für Fragen kannst du an mich, Manuel, unter die Email-Adresse **argonist(at)gmail.com** wenden.
 
 Hier kannst du als Teilnehmer anmelden:
 
