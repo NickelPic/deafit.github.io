@@ -6,6 +6,8 @@ published: true
 
 ![Deaf IT 2014](public/images/2014-10-25_DeafIT2014_Gruppe.jpg)
 
+<img src="http://www.deafit.org/public/images/2014-10-25_DeafIT2014_Gruppe.jpg">
+
 ## <a id="video"></a>DeafIT 2015 - Ankündigung
 
 ### Ankündigungsvideo:
