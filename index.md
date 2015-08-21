@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: Home
-parallax: public/images/2014-10-25_DeafIT2014_Gruppe.jpg  
 published: true 
 ---
 
+<img src="public/images/2014-10-25_DeafIT2014_Gruppe.jpg width="100%">
 
 ## <a id="video"></a>DeafIT 2015 - Ankündigung
 
