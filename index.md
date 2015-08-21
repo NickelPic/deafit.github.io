@@ -4,7 +4,7 @@ title: Home
 published: true 
 ---
 
-<img src="public/images/2014-10-25_DeafIT2014_Gruppe.jpg width="100%">
+![Deaf IT 2014](public/images/2014-10-25_DeafIT2014_Gruppe.jpg)
 
 ## <a id="video"></a>DeafIT 2015 - Ankündigung
 
