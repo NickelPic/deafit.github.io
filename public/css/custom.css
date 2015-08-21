@@ -243,3 +243,8 @@ main h2 {
     min-height: 400px;
     background: transparent;
 }
+
+.container > img {
+  width: 100%; 
+}
+}
