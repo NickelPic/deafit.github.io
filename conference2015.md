@@ -25,7 +25,7 @@ Pommernstraße 1
 Anfahrt: [Google Maps](https://goo.gl/maps/jhK1N)
 
 ### Übernachtung
-Noch offen. Es hängt von Anmeldung ab.
+Noch offen. Es hängt von der Anmeldung ab.
 
 ### Vorläufiges Programm:
 
@@ -140,9 +140,9 @@ Noch offen. Es hängt von Anmeldung ab.
 
 **Bei der Anmeldung bis 31.8.2015** beträgt die Teilnahmegebühr für Workshop von Freitag bis Sonntag **30,- €**, danach bis 11.10.2015 35,- €.
 
-Die Teilnahmegebühr beinhaltet das Trinken von Freitag bis Sonntag und das Mittagsessen und die Kuchen am Sonnabend.
+Die Teilnahmegebühr beinhaltet Getränke von Freitag bis Sonntag und das Mittagsessen und Kuchen am Sonnabend.
 
-Bitte überweist du das Teilnahmegebühr gleich auf folgendes Konto von GMU e.V.:
+Bitte überweise die Teilnahmegebühr gleich auf folgendes Konto von GMU e.V.:
 Name: Gehörlosenverband München und Umland
 IBAN: DE73701900000300138371
 BIC: GENODEF1M01
@@ -151,11 +151,11 @@ Verwendungszweck: Deaf-IT-Konferenz 2015
 
 Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
 
-Wenn du einen interessante IT-Thema hast, kannst du bei uns bis 31.08.2015 bewerben. Hier kannst du bewerben. Wenn dein Thema in das Programm aufgenommen wird, dann bist du teilnahmegebührbefreit.
+Wenn du ein interessantes IT-Thema hast, kannst du dich bei uns bis 31.08.2015 bewerben. Wenn dein Thema in das Programm aufgenommen wird, dann bist du von der Teilnahmegebühr befreit.
 
-Für Fragen kannst du an mich, Manuel, unter die Email-Adresse **argonist(at)gmail.com** wenden.
+Bei Fragen kannst du an mich, Manuel, unter der Email-Adresse **argonist(at)gmail.com** wenden.
 
-Hier kannst du als Teilnehmer anmelden:
+Hier kannst du dich als Teilnehmer anmelden:
 
 <iframe src="https://docs.google.com/forms/d/1rxgoNDV2voOZ6KK5ZJg_vE5tbF1CtOh95RFRYANarYY/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
