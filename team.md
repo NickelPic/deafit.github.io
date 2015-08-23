@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team
-parallax: "public/images/2014-10-25_DeafIT2014_Gruppe.jpg"
+parallax: false
 published: true
 ---
 
