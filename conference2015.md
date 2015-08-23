@@ -142,12 +142,12 @@ Noch offen. Es hängt von der Anmeldung ab.
 
 Die Teilnahmegebühr beinhaltet Getränke von Freitag bis Sonntag und das Mittagsessen und Kuchen am Sonnabend.
 
-Bitte überweise die Teilnahmegebühr gleich auf folgendes Konto von GMU e.V.:
-Name: Gehörlosenverband München und Umland
-IBAN: DE73701900000300138371
-BIC: GENODEF1M01
-Name der Bank: Münchner Bank eG
-Verwendungszweck: Deaf-IT-Konferenz 2015
+<p>Bitte überweise die Teilnahmegebühr gleich auf folgendes Konto von GMU e.V.:</p>
+<p>Name: Gehörlosenverband München und Umland<br>
+IBAN: DE73701900000300138371<br>
+BIC: GENODEF1M01<br>
+Name der Bank: Münchner Bank eG<br>
+Verwendungszweck: Deaf-IT-Konferenz 2015</p>
 
 Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
 
