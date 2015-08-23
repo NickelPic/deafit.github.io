@@ -24,6 +24,8 @@ Die Deaf IT Homepage wird vom Gehörlosenverband München und Umland e.V. betrie
  
 Vertretungsberechtigte: Vorsitzende Elisabeth Kaufmann<br>
 Bevollmächtigte Person: Cornelia von Pappenheim - Geschäftsführerin
+
+Logo, Banner & Header designed by andréungergrafik&design
  
 <small>
 Haftungsausschluss für externe Links
