@@ -138,7 +138,7 @@ Noch offen. Es hängt von der Anmeldung ab.
 
 ### Anmeldung
 
-**Bei der Anmeldung bis 31.8.2015** beträgt die Teilnahmegebühr für Workshop von Freitag bis Sonntag **30,- €**, danach bis 11.10.2015 35,- €.
+**Bei der Anmeldung bis 04.09.2015** beträgt die Teilnahmegebühr für Workshop von Freitag bis Sonntag **30,- €**, danach bis 11.10.2015 35,- €.
 
 Die Teilnahmegebühr beinhaltet Getränke von Freitag bis Sonntag und das Mittagsessen und Kuchen am Sonnabend.
 
