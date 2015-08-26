@@ -2,7 +2,7 @@
 layout: page
 title: Manuel Gnerlich
 ---
-![Manuel Gnerlich](/public/images/magn_small.jpg "Manuel Gnerlich")
+![Manuel Gnerlich](/public/images/manuel_200px.jpg "Manuel Gnerlich")
 
 Wohnort: Hamburg
 Beruf & Arbeitsgeber: freiberuflich Software-Berater
