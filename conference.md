@@ -4,30 +4,27 @@ title: Konferenz 2015
 published: true
 ---
 
-
-#Konferenz 2015
-
-Vom 13. bis 15. November 2015 findet in Nürnberg die "DeafIT Conference 2015" statt.
+Vom **13. bis 15. November 2015** findet **in Nürnberg** die "DeafIT Conference 2015" statt.
 
 ## Ankündigungsvideo:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IgYucwI3lWE" frameborder="0" cc_load_policy="1"></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/IgYucwI3lWE" frameborder="0" cc_load_policy="1"></iframe>
 
 ## Call for Paper:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QNDi-0RWkl4" frameborder="0" cc_load_policy="1"></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/QNDi-0RWkl4" frameborder="0" cc_load_policy="1"></iframe>
 
 ### Wo?
 
-Gehörlosenkulturzentrum Nürnberg
+> Gehörlosenkulturzentrum Nürnberg<br>
+> Pommernstraße 1<br>
+> 90451 Nürnberg
 
-Pommernstraße 1
-90451 Nürnberg
 
 Anfahrt: [Google Maps](https://goo.gl/maps/jhK1N)
 
-### Übernachtung
+## Übernachtung
 Noch offen. Es hängt von der Anmeldung ab.
 
-### Vorläufiges Programm:
+## Vorläufiges Programm:
 
 ## Freitag
 <!-- .container is main centered wrapper -->
@@ -45,7 +42,7 @@ Noch offen. Es hängt von der Anmeldung ab.
     <div class="one-third column">19.00-21.00</div>
     <div class="two-thirds column">Kofo oder Impulsvortrag</div>
   </div>
-</div> 	
+</div>
 <BR/>
 
 ## Samstag
@@ -131,10 +128,10 @@ Noch offen. Es hängt von der Anmeldung ab.
     <div class="one-third column">Ab 12.30</div>
     <div class="two-thirds column">Heimreise</div>
   </div>
-</div> 	
+</div>
 <BR/>
 
-Änderungen vorbehalten! 
+Änderungen vorbehalten!
 
 ### Anmeldung
 
@@ -158,5 +155,3 @@ Bei Fragen kannst du an mich, Manuel, unter der Email-Adresse **argonist(at)gmai
 Hier kannst du dich als Teilnehmer anmelden:
 
 <iframe src="https://docs.google.com/forms/d/1rxgoNDV2voOZ6KK5ZJg_vE5tbF1CtOh95RFRYANarYY/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-
-

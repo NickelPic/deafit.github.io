@@ -22,7 +22,7 @@ github:
   repo:           https://github.com/deafit
 
 # Navigation
-pages_list:       
+pages_list:
   Konferenz: '/conference'
   Team: '/team'
   Blog: '/blog'

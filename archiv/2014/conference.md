@@ -4,9 +4,7 @@ title: Konferenz 2014
 published: true
 ---
 
-#Konferenz 2014
-
-Standort: 
+Standort:
 [Gehörlosenzentrum München][1]
 Lohengrinstraße 11  
 81925 München
@@ -33,7 +31,7 @@ Anfahrt: [Google Maps][2]
 Die Teilnahme ist kostenlos.
 
 Bitte melde dich bis spätestens 04. Oktober 2014 bei uns per Mail. Nachmeldung ist möglich.  
-Bitte mit Vor- und Nachnamen und Berufsbezeichnung angeben.   
+Bitte mit Vor- und Nachnamen und Berufsbezeichnung angeben.
 
 Die Teilnehmerzahl ist begrenzt.
 
