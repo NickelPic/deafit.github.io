@@ -19,3 +19,7 @@ published: true
 ## <a id="vision"></a>Die Vision
 
 Die Vision des Deaf IT Conference Teams ist es, die Verknüpfung und Vernetzung des Fachwissens in der IT-Branche unter den deutschsprachigen Gehörlosen, Schwerhörigen und CI-Trägern noch stärker auszubauen und zu vernetzen. In den deutschsprachigen Ländern leben viele Hörgeschädigte, die ein enormes Fachwissen besitzen und Kompetenzen in ihrem Beruf aufweisen können. Jedoch können sie diese aber nicht an die anderen weitergeben oder ihre Wissenslücken füllen sowie Erfahrungen austauschen, da sie von anderen Gleichgesinnten nicht wissen. Diese Lücke möchte das Deaf IT Conference Team füllen.
+
+## <a id="conference2014"></a>Konferenz 2014
+
+So war die <a href="/archiv/2014/bericht/">Deaf IT Konferenz 2014</a>.
