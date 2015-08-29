@@ -2,6 +2,7 @@
 layout: page
 title: Konferenz 2015
 published: true
+share: true
 ---
 
 Vom **13. bis 15. November 2015** findet **in Nürnberg** die "DeafIT Conference 2015" statt.

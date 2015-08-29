@@ -2,6 +2,7 @@
 layout: page
 title: Die erste Deaf IT Conference 2014 in München
 published: true
+share: true
 ---
 
 Hörgeschädigte IT´ler treffen sich bei der ersten Deaf IT Conference 2014 im Gehörlosenzentrum München zu einem Erfahrungs- und Informationsaustausch.

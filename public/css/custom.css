@@ -298,7 +298,7 @@ main h2 {
   margin-right: 0px !important;
 }
 
-ul.share-buttons {
+.navbar ul.share-buttons {
   list-style: none;
   padding: 0;
   margin: 2.5rem 0 0 0;
@@ -313,7 +313,7 @@ ul.share-buttons li{
     width:auto;
   }
 
-  ul.share-buttons {
+  .navbar ul.share-buttons {
     position:absolute;
     right: -50px;
     top: 45px;
@@ -325,7 +325,7 @@ ul.share-buttons li{
     width:auto;
   }
 
-  ul.share-buttons {
+  .navbar ul.share-buttons {
     position:absolute;
     right: -50px;
     top: -10px;

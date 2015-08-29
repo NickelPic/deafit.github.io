@@ -2,6 +2,7 @@
 layout: page
 title: Konferenz 2014
 published: true
+share: true
 ---
 
 Standort:
