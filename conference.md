@@ -151,7 +151,7 @@ Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
 
 Wenn du ein interessantes IT-Thema hast, kannst du dich bei uns bis **20.09.2015** bewerben. Wenn dein Thema in das Programm aufgenommen wird, dann bist du von der Teilnahmegebühr befreit.
 
-Bei Fragen kannst du an mich, Manuel, unter der Email-Adresse **argonist(at)gmail.com** wenden.
+Bei Fragen kannst du an mich, Manuel, unter der Email-Adresse **deafit.conf(at)gmail.com** wenden.
 
 Hier kannst du dich als Teilnehmer anmelden:
 
