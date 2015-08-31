@@ -20,7 +20,7 @@ Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Ber
 	<div class="team-row">
 		<div class="team-col"><a href="/team/fabian-spillner"><img src="/public/images/fabian_200px.jpg"><br>Fabian Spillner</a></div>
 		<div class="team-col"><a href="/team/nicole-weisskopf"><img src="/public/images/nicole_200px.jpg"><br>Nicole Weißkopf</a></div>
-		<div class="team-col"><a href="/team/#christian-beilborn"><img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=Christian&w=200&h=200"><br>Christian Beilborn</a></div>
+		<div class="team-col"><a href="/team/christian-beilborn"><img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=Christian&w=200&h=200"><br>Christian Beilborn</a></div>
 	</div>
 </section>
 
