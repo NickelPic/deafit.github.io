@@ -4,7 +4,7 @@ title: Christian Beilborn
 published: true
 ---
 
-Foto folgt noch
+Foto folgt noch...
 
 Wohnort: Röthenbach a. d. Peg.  
 Beruf & Arbeitsgeber: Junior IT Engineer bei [Atos IT Solutions & Services](http://atos.net "Atos IT Solutions & Services")<br>
