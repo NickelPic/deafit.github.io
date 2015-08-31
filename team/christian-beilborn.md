@@ -1,3 +1,9 @@
+---
+layout: page
+title: Christian Beilborn
+published: true
+---
+
 Foto folgt noch
 
 Wohnort: Röthenbach a. d. Peg.  
