@@ -41,7 +41,7 @@ Noch offen. Es hängt von der Anmeldung ab.
   </div>
   <div class="row">
     <div class="one-third column">19.00-21.00</div>
-    <div class="two-thirds column">Kofo oder Impulsvortrag</div>
+    <div class="two-thirds column">Kofo</div>
   </div>
 </div>
 <BR/>
