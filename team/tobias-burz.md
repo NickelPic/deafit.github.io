@@ -7,7 +7,7 @@ published: true
 ![Tobias Burz](/public/images/tobias_200px.jpg "Tobias Burz")
 
 Wohnort: München  
-Beruf & Arbeitsgeber: Senior IT Consultant bei [Atos IT Solutions & Services](http://atos.net "Atos IT Solutions & Services")<br>
+Beruf & Arbeitsgeber: Ressource Manager und Senior IT Consultant bei [Atos IT Solutions & Services](http://atos.net "Atos IT Solutions & Services")<br>
 
 ## Wie bist du zu deinem jetzigen Beruf gekommen?
 
@@ -16,6 +16,7 @@ Vor ca. 27 Jahren hatte ich mein Elektrotechnik-Studium nach 2 Jahren abgebroche
 ## Was ist deine Aufgabe?
 
 Nach vielen verschiedenen Arbeitstätigkeiten als Administrator, Softwareentwickler (C, JavaScript, PHP, HTML, VisualBasic), Konfigurationsmanager, Teilprojektleiter, Supportverantwortlicher, Berater (Sharepoint, etc.) habe ich derzeit die Aufgabe, die Projektmanager bei der Optimierung von Geschäftsprozessen als IT Senior Consultant zu beraten und zu unterstützen.
+Dazu bin ich als Ressource Manager zuständig, geeignete Atos-Kollegen für die Tower Manager in verschiedenen Projekten zu ermitteln und einzusetzen.
 
 ## Warum bist du im Team?
 
