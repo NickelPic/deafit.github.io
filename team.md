@@ -9,7 +9,7 @@ published: true
 
 ## Team
 
-Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Bereichen der IT-Branche arbeiten und jahrelange Berufserfahrung aufweisen können. Das Team hat sich mit der Vision und dem Ziel zusammengeschlossen, eine Deaf IT Conference auf die Beine zu stellen, um ihr Fachwissen mit noch mehr Menschen auszutauschen.
+Wir sind sechs Gehörlose und Schwerhörige, die in den unterschiedlichsten Bereichen der IT-Branche arbeiten und jahrelange Berufserfahrung aufweisen können. Das Team hat sich mit der Vision und dem Ziel zusammengeschlossen, eine Deaf IT Conference auf die Beine zu stellen, um ihr Fachwissen mit noch mehr Menschen auszutauschen.
 
 <section>
 	<div class="team-row">
@@ -23,7 +23,8 @@ Wir sind sieben Gehörlose und Schwerhörige, die in den unterschiedlichsten Ber
 		<div class="team-col"><a href="/team/christian-beilborn"><img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=Christian&w=200&h=200"><br>Christian Beilborn</a></div>
 	</div>
 </section>
-
+<br>
+<br>
 ## Vorort Team in Nürnberg
 
 Faraz Khadivi<br>
