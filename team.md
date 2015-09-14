@@ -23,7 +23,7 @@ Wir sind sechs Gehörlose und Schwerhörige, die in den unterschiedlichsten Bere
 		<div class="team-col"><a href="/team/christian-beilborn"><img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=Christian&w=200&h=200"><br>Christian Beilborn</a></div>
 	</div>
 </section>
-<br><br>
+<br>
 
 
 ## Vorort Team in Nürnberg
