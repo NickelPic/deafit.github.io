@@ -23,7 +23,8 @@ Vom **13. bis 15. November 2015** findet **in Nürnberg** die "DeafIT Conference
 Anfahrt: [Google Maps](https://goo.gl/maps/jhK1N)
 
 ## Übernachtung
-Noch offen. Es hängt von der Anmeldung ab.
+Jeder Teilnehmer muss selbst die Übernachtung organisieren.
+Das Deaf IT Team übernachtet im [Art & Business Hotel Nürnberg](http://www.art-business-hotel.com/de).
 
 ## Vorläufiges Programm:
 
