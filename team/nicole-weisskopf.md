@@ -15,7 +15,7 @@ Ich habe in den unterschiedlichsten Branchen während meiner Schul- und Ausbildu
 
 ## Was ist deine Aufgabe?
 
-Ich arbeite seit Ende 2006 als Community Managerin bei CHIP Online und habe das CHIP Forum zu Deutschlands größtem IT-Forum mitentwickeln dürfen. Meine Aufgabe bestehen aus der Betreuung und die Administration der User Generated Content - Inhalte (UGC) auf CHIP Online, strategische & technische Weiterentwicklung aller CHIP Community-Bereiche (CHIP Forum, Produktmeinungen, Kommentar-Funktion, Produktblogs uvm.) Sowie unterstütze ich das Social Media Team bei der Betreuung der CHIP Fanpages auf Facebook, GooglePlus, Twitter & YouTube. In meinem Team agiere ich noch als Prozess-Master, hier bin ich für die Optimierung der Arbeitsprozesse im Community & Social Team zuständig, wie zum Beispiel mit der Prozessmethode KanBan.
+Ich arbeite seit Ende 2006 als Community Managerin bei CHIP Online und habe das CHIP Forum zu Deutschlands größtem IT-Forum mitentwickeln dürfen. Meine Aufgabe bestehen hauptsächlich aus dem operativen Geschäft, Kundenbindung, der Betreuung und die Administration der User Generated Content - Inhalte (UGC) auf CHIP Online, strategische & technische Weiterentwicklung aller CHIP Community-Bereiche (CHIP Forum, Produktmeinungen, Kommentar-Funktion, Produktblogs uvm.) und vieles weitere.
 
 ## Warum bist du im Team?
 
