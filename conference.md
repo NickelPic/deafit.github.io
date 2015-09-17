@@ -5,7 +5,7 @@ published: true
 share: true
 ---
 
-Vom **13. bis 15. November 2015** findet **in Nürnberg** die "DeafIT Conference 2015" statt.
+Vom **13. bis 15. November 2015** findet **in Nürnberg** die "Deaf IT Konferenz 2015" statt.
 
 ## Ankündigungsvideo:
 <iframe class="youtube" src="https://www.youtube.com/embed/IgYucwI3lWE" frameborder="0" cc_load_policy="1"></iframe>
@@ -152,7 +152,7 @@ Die Teilnehmerzahl ist begrenzt, eine frühe Anmeldung lohnt sich immer ;)
 
 Wenn du ein interessantes IT-Thema hast, kannst du dich bei uns bis **20.09.2015** bewerben. Wenn dein Thema in das Programm aufgenommen wird, dann bist du von der Teilnahmegebühr befreit.
 
-Bei Fragen kannst du an mich, Manuel, unter der Email-Adresse **deafit.conf(at)gmail.com** wenden.
+Bei Fragen an das Deaf IT Team senden: Email-Adresse **deafit.conf(at)gmail.com**
 
 Hier kannst du dich als Teilnehmer anmelden:
 
