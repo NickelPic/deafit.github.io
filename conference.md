@@ -137,9 +137,8 @@ Das Deaf IT Team übernachtet im [Art & Business Hotel Nürnberg](http://www.art
 
 ### Anmeldung
 
-**Bei der Anmeldung bis 04.09.2015** beträgt die Teilnahmegebühr für die Konferenz mit Workshop von Freitag bis Sonntag **30,- €**, danach bis 11.10.2015 35,- €.
-
-Die Teilnahmegebühr beinhaltet Getränke von Samstag bis Sonntag und das Mittagsessen und Kuchen am Sonnabend.
+Bitte bis zum 11. Oktober 2015 über das untenstehende Formular anmelden.
+Die Teilnahmegebühr beträgt **35,- €** für die Konferenz mit Workshop von Freitag bis Sonntag. Diese beinhaltet Getränke von Samstag bis Sonntag und das Mittagsessen als auch Kuchen am Samstag.
 
 <p>Bitte überweise die Teilnahmegebühr gleich auf folgendes Konto von GMU e.V.:</p>
 <p>Name: Gehörlosenverband München und Umland<br>
